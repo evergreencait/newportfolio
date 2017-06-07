@@ -41,30 +41,27 @@ img {
   font-family: 'Raleway', sans-serif;
 }
 
-p {
-  color: white;
-  font-size: 50px;
-}
 
 .rw-wrapper{
 	width: 80%;
 	position: relative;
-	margin: 200px auto 0 auto;
+	margin: 300px auto 0 auto;
 	font-family: 'Raleway', sans-serif;
-	padding: 10px;
+	padding: 13px;
   margin-top: 100px;
+  padding-bottom: 5px;
 }
 
 .rw-sentence{
 	margin: 0;
 	text-align: left;
 	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+  padding-bottom: 5px;
 }
 
 .rw-sentence span{
 	color: #444;
-	white-space: nowrap;
-	font-size: 200%;
+	font-size: 50px;
 	font-weight: normal;
 }
 
@@ -75,8 +72,7 @@ p {
 
 .rw-words span{
 	position: absolute;
-  padding: 5px;
-  font-size: 50px;;
+  font-size: 50px;
 	opacity: 0;
 	overflow: hidden;
 	width: 100%;
@@ -112,13 +108,5 @@ p {
     8% { opacity: 1; height: 60px; }
     19% { opacity: 1; height: 60px; }
 	25% { opacity: 0; height: 60px; }
-    100% { opacity: 0; }
-}
-
-@keyframes rotateWordsSecond {
-    0% { opacity: 1; animation-timing-function: ease-in; width: 0px; }
-    10% { opacity: 0.3; width: 0px; }
-	20% { opacity: 1; width: 100%; }
-    27% { opacity: 0; width: 100%; }
     100% { opacity: 0; }
 }
