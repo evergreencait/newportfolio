@@ -12,13 +12,19 @@
    content: '';
    display: inline-block;
    height: 100%;
-   vertical-align: middle;
+   vertical-align: bottom;
 }
 h4 {
    display: inline-block;
-   font-size: 20px; /*or whatever you want*/
+   margin-right: 60%;
+   font-size: 35px;
    color: #FFF;
+   border: 5px solid white;
+   padding: 20px;
+   padding-top: 30px;
+   font-family: 'Homemade Apple', cursive;
 }
+
 img {
   display: block;
   max-width: 100%;
