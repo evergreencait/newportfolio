@@ -197,3 +197,21 @@ li {
 -o-transition: all 700ms ease;
 transition: all 700ms ease;
 }
+
+.portfolio {
+  background-color: #a8a8a8;
+  color: white;
+  margin-top: -10%;
+  padding-top: 5px;
+  text-align: center;
+}
+
+#portfolio {
+  margin-top: 40px;
+}
+
+#bob {
+  padding-top: 10px;
+  height: 200px;
+  margin-left: 18%;
+}
