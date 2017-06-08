@@ -215,3 +215,7 @@ transition: all 700ms ease;
   height: 200px;
   margin-left: 18%;
 }
+
+.portdetail {
+  text-align: center;
+}
