@@ -135,6 +135,7 @@ li {
     padding-right: 20%;
     padding-top: 4%;
     padding-bottom: 4%;
+    list-style: none;
 }
 
 .jobdetails {
@@ -172,21 +173,22 @@ li {
   margin-right: 2%;
   list-style: none;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
 
 .flex-item:hover {
   margin-top: 10px;
-  height: 800px;
+  height: 80%;
   color: black;
   background-color: white;
   -webkit-box-shadow: 10px 6px 108px 37px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 6px 108px 37px rgba(0,0,0,0.75);
   box-shadow: 10px 6px 108px 37px rgba(0,0,0,0.75);
   -webkit-transition: all 500ms ease;
--moz-transition: all 500ms ease;
--ms-transition: all 500ms ease;
--o-transition: all 500ms ease;
-transition: all 500ms ease;
+-moz-transition: all 700ms ease;
+-ms-transition: all 700ms ease;
+-o-transition: all 700ms ease;
+transition: all 700ms ease;
 }
