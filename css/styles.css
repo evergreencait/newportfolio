@@ -75,7 +75,7 @@ img {
 .rw-sentence{
 	margin: 0;
 	float: left;
-	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+  margin-left: -20%;
   padding-bottom: 5px;
   margin-top: -100%;
 }
