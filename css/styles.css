@@ -216,5 +216,9 @@ transition: all 500ms ease;
 }
 
 .portdetail {
-  text-align: center;
+  width: 500px;
+  float: right;
+  margin-right: 30%;
+  text-align: left;
+  margin-top: -7%;
 }
