@@ -211,7 +211,19 @@ transition: all 500ms ease;
 
 #bob {
   padding-top: 10px;
+  height: 260px;
+  margin-left: 18%;
+}
+
+#pizza {
+  padding-top: 10px;
   height: 200px;
+  margin-left: 18%;
+}
+
+#girl {
+  padding-top: 10px;
+  height: 300px;
   margin-left: 18%;
 }
 
