@@ -117,6 +117,14 @@ img {
 	color: #008c9a;
 }
 
+.box{
+  position:relative;
+}
+
+.img-title{
+  position: absolute;
+}
+
 @keyframes rotateWordsFirst {
     0% { opacity: 1; animation-timing-function: ease-in; height: 0px; }
     8% { opacity: 1; height: 60px; }
@@ -266,6 +274,12 @@ html, body {
   @media (max-width:767px){
     .md-macbook-pro {
       font-size: 5px;
+    }
+    .rw-sentence span{
+      font-size: 30px;
+    }
+    .rw-word span{
+      font-size: 30px;
     }
   }
 
