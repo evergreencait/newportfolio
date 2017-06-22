@@ -203,6 +203,7 @@ transition: all 500ms ease;
 
 .port {
   margin-top: 5%;
+  padding-bottom: 5%;
   padding-top: 3%;
   -webkit-box-shadow: -1px -1px 20px 2px rgba(0,0,0,0.75);
   -moz-box-shadow: -1px -1px 20px 2px rgba(0,0,0,0.75);
@@ -287,6 +288,10 @@ body {
       font-size: 15px;
       width: 30%;
     }
+    .fa {
+      padding: 1%;
+      margin-right: 50%;
+    }
 
     .name {
       position: absolute;
@@ -307,7 +312,7 @@ body {
     }
     #skill {
       font-size: 15px;
-      width: 30%;
+      width: 40%;
     }
     .name {
       position: absolute;
@@ -317,7 +322,11 @@ body {
     }
 
     #name {
-      font-size: 15px;
+      font-size: 12px;
+    }
+    .fa {
+      padding: 1%;
+      margin-right: 50%;
     }
   }
 
@@ -469,6 +478,7 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 a {
   float: left;
   position: relative;
+  color: black;
 }
 
 a img {
@@ -496,4 +506,15 @@ a:hover span {
   height: 100px;
   margin: auto;
   padding-top: 5%;
+}
+
+.social {
+  margin-top: 5%;
+  margin: right: 60%;
+  margin-left: 40%;
+
+}
+
+.fa {
+  padding: 4%;
 }
