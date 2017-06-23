@@ -331,6 +331,9 @@ body {
     .port {
       width: 80%;
     }
+    .accordian {
+      width: 90%;
+    }
   }
 
 .md-macbook-pro .md-lid {
