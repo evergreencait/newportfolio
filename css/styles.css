@@ -313,7 +313,7 @@ body {
 
   }
 
-  @media (max-width:320px){
+  @media (max-width:375px){
     .md-macbook-pro {
       font-size: 4px;
     }
