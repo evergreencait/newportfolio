@@ -328,6 +328,9 @@ body {
       padding: 1%;
       margin-right: 50%;
     }
+    .port {
+      width: 80%;
+    }
   }
 
 .md-macbook-pro .md-lid {
