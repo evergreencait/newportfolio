@@ -553,3 +553,8 @@ a:hover span {
 .fa {
   padding: 4%;
 }
+
+.card-block {
+  font-size: 20px;
+  font-family: Raleway;
+}
