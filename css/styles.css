@@ -333,6 +333,9 @@ body {
     li {
       font-size: 14px;
     }
+    .row {
+      margin-left: -20% !important;
+    }
   }
 
   @media (max-width:375px){
@@ -375,6 +378,9 @@ body {
     #education {
       font-size: 20px;
       width: 120%;
+    }
+    .row {
+    margin-left: -20% !important;
     }
   }
 
