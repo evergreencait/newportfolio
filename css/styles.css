@@ -118,9 +118,10 @@ img {
   font-size: 100px;
   padding: 1%;
   margin-left: 5%;
-  color:white;
+  background: rgba(0, 0, 0, 0.5);
 font-family: 'Homemade Apple', cursive;
-  border: 6px double white;
+border: 6px double white;
+  color: white;
 }
 
 #name {
@@ -265,18 +266,18 @@ body {
 }
   @media (max-width:1199px){
     .md-macbook-pro {
-      font-size: 11px;
+      font-size: 12px;
     }
   }
   @media (max-width:1024px){
     .md-macbook-pro {
-      font-size: 10px;
+      font-size: 11px;
     }
   }
 
   @media (max-width:767px){
     .md-macbook-pro {
-      font-size: 5px;
+      font-size: 8px;
     }
     .rw-sentence span{
       font-size: 30px;
@@ -290,12 +291,15 @@ body {
     }
     #web {
       font-size: 20px;
+      width: 100%;
     }
     #work {
       font-size: 20px;
+      width: 100%;
     }
     #education {
       font-size: 20px;
+      width: 100%;
     }
     .fa {
       padding: 1%;
@@ -313,9 +317,6 @@ body {
       font-size: 20px;
     }
 
-    #accordian {
-      margin-right: 50%;
-    }
     li {
       font-size: 14px;
     }
@@ -324,7 +325,7 @@ body {
 
   @media (max-width:375px){
     .md-macbook-pro {
-      font-size: 4px;
+      font-size: 5px;
     }
     #skill {
       font-size: 15px;
@@ -356,12 +357,15 @@ body {
     }
     #web {
       font-size: 20px;
+      width: 100%;
     }
     #work {
       font-size: 20px;
+      width: 100%;
     }
     #education {
       font-size: 20px;
+      width: 100%;
     }
   }
 
