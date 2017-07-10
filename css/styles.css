@@ -273,6 +273,18 @@ body {
     .md-macbook-pro {
       font-size: 11px;
     }
+    #web {
+      font-size: 20px;
+      width: 120%;
+    }
+    #work {
+      font-size: 20px;
+      width: 120%;
+    }
+    #education {
+      font-size: 20px;
+      width: 120%;
+    }
   }
 
   @media (max-width:767px){
@@ -291,15 +303,18 @@ body {
     }
     #web {
       font-size: 20px;
-      width: 100%;
+      width: 120%;
+      margin: auto !important;
     }
     #work {
       font-size: 20px;
-      width: 100%;
+      width: 120%;
+      margin: auto !important;
     }
     #education {
       font-size: 20px;
-      width: 100%;
+      width: 120%;
+      margin: auto !important;
     }
     .fa {
       padding: 1%;
@@ -357,15 +372,18 @@ body {
     }
     #web {
       font-size: 20px;
-      width: 100%;
+      width: 120%;
+      margin: auto !important;
     }
     #work {
       font-size: 20px;
-      width: 100%;
+      width: 120%;
+      margin: auto !important;
     }
     #education {
       font-size: 20px;
-      width: 100%;
+      width: 120%;
+      margin: auto !important; 
     }
   }
 
