@@ -336,6 +336,10 @@ body {
       font-size: 14px;
     }
 
+    #accordian {
+      margin: auto !important;
+    }
+
   }
 
   @media (max-width:375px){
@@ -364,7 +368,7 @@ body {
       width: 80%;
     }
     #accordian {
-      margin-right: 50%;
+      margin: auto !important;
     }
 
     li {
