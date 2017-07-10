@@ -304,17 +304,17 @@ body {
     #web {
       font-size: 20px;
       width: 120%;
-      margin-left: -10% !important;
+      margin-left: -20% !important;
     }
     #work {
       font-size: 20px;
       width: 120%;
-    margin-left: -10% !important;
+    margin-left: -20% !important;
     }
     #education {
       font-size: 20px;
       width: 120%;
-      margin-left: -10% !important;
+      margin-left: -20% !important;
     }
     .fa {
       padding: 1%;
@@ -335,11 +335,6 @@ body {
     li {
       font-size: 14px;
     }
-
-    #accordian {
-      margin: auto !important;
-    }
-
   }
 
   @media (max-width:375px){
@@ -367,27 +362,24 @@ body {
     .port {
       width: 80%;
     }
-    #accordian {
-      margin: auto !important;
-    }
 
     li {
       font-size: 14px;
     }
     #web {
       font-size: 20px;
-      width: 120%;
-      margin-left: -10% !important;
+      width: 130%;
+      margin-left: -20% !important;
     }
     #work {
       font-size: 20px;
       width: 120%;
-      margin-left: -10% !important;
+      margin-left: -20% !important;
     }
     #education {
       font-size: 20px;
       width: 120%;
-      margin-left: -10% !important;
+      margin-left: -20% !important;
     }
   }
 
