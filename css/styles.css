@@ -288,6 +288,15 @@ body {
       font-size: 15px;
       width: 30%;
     }
+    #web {
+      font-size: 20px;
+    }
+    #work {
+      font-size: 20px;
+    }
+    #education {
+      font-size: 20px;
+    }
     .fa {
       padding: 1%;
       margin-right: 50%;
@@ -344,6 +353,15 @@ body {
 
     li {
       font-size: 14px;
+    }
+    #web {
+      font-size: 20px;
+    }
+    #work {
+      font-size: 20px;
+    }
+    #education {
+      font-size: 20px;
     }
   }
 
